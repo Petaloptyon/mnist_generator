@@ -1,2 +1,2 @@
-# mnist_generator
+#mnist_generator
 GAN for generating mnist samples
