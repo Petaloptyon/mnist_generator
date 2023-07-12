@@ -24,7 +24,7 @@ also i create a gif, using model predictions after each train epoch (for GAN_1 [
 
 #################################################################
 
-##################### conclusion: nothing changes ######################
+#### conclusion: model overfitting too fast, and doesn't draw well#####
 
 #################################################################
 
