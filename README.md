@@ -6,4 +6,8 @@ How it works:
   - discriminator define, is this image real or fake;
   - use backpropagation algorytm (during this process generator get information from discriminator, about features which it found) and, according with discriminator decision and change generator weights.
 
+I tried to change generator from GAN_1 to this (add BatchNoemalization layer):
+
+conclusion: nothing change
+also i create a gif, using model predictions after each train epoch (file: GAN_1_bn_predictions.gif)
 ###################################### now i am working on improving model ######################################
