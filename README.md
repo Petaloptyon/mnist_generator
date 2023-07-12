@@ -19,7 +19,7 @@ You can see prediction result of my model after 100 epochs. If I had more resour
 ![image](https://github.com/Petaloptyon/mnist_generator/assets/131547274/c08cefe1-6500-425e-9c63-25c7fad1fe5b)
 ![animation](https://github.com/Petaloptyon/mnist_generator/assets/131547274/0483d19b-2e84-4e13-856d-cb8a56c24a05)
 
-1.3) I complicate model and result becomes better.
+1.3) I complicate model and result becomes better, here is the result of 50 epochs.
 
 ![image](https://github.com/Petaloptyon/mnist_generator/assets/131547274/edd69540-3439-4dc1-bc99-45e6ed6ede6e)
 ![GAN_1 3](https://github.com/Petaloptyon/mnist_generator/assets/131547274/dab02d8d-1a8c-4cab-963d-8e38dcbba809)
