@@ -28,6 +28,8 @@ also i create a gif, using model predictions after each train epoch (for GAN_1 [
 
 #################################################################
 
+
+
 2) GAN_2 - i try to attach "uniqe noise" for each number (uniqe vector in latent space)
 
 ###################################### now i am working on improving model ######################################
