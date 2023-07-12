@@ -22,11 +22,7 @@ also i create a gif, using model predictions after each train epoch (for GAN_1 [
 
 ![animation](https://github.com/Petaloptyon/mnist_generator/assets/131547274/0483d19b-2e84-4e13-856d-cb8a56c24a05)
 
-#################################################################
-
-#### conclusion: model overfitting too fast, and doesn't draw well#####
-
-#################################################################
+conclusion: model overfitting too fast, and doesn't draw well
 
 
 
