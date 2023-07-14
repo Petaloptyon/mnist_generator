@@ -23,11 +23,3 @@ You can see prediction result of my model after 100 epochs. If I had more resour
 
 ![image](https://github.com/Petaloptyon/mnist_generator/assets/131547274/edd69540-3439-4dc1-bc99-45e6ed6ede6e)
 ![GAN_1 3](https://github.com/Petaloptyon/mnist_generator/assets/131547274/dab02d8d-1a8c-4cab-963d-8e38dcbba809)
-
-
-
-
-
-2) GAN_2 - i try to attach "uniqe noise" for each number (uniqe vector in latent space)
-
-###################################### now i am working on improving model ######################################
