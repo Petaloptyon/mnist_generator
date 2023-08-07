@@ -29,7 +29,7 @@ For example, i gave this prompt: 159 and got this back (i forgot to use gray col
 
 ![image](https://github.com/Petaloptyon/mnist_generator/assets/131547274/c0c0270c-f0fa-41b4-8b6a-6869c8202788)
 
-Here you can see the result of training each g_model after 100 epochs (the result gets much better after another 100 epochs):
+Here you can see the result of training each g_model after 150 epochs:
 
 ![GAN_1 4_requesting_gif_0](https://github.com/Petaloptyon/mnist_generator/assets/131547274/5d80d26b-2353-4953-be1f-448bcf78f754)
 ![GAN_1 4_requesting_gif_1](https://github.com/Petaloptyon/mnist_generator/assets/131547274/6755ae73-17d3-430b-ad97-dfa5a53de8c6)
