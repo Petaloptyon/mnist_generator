@@ -23,3 +23,16 @@ You can see prediction result of my model after 100 epochs. If I had more resour
 
 ![image](https://github.com/Petaloptyon/mnist_generator/assets/131547274/edd69540-3439-4dc1-bc99-45e6ed6ede6e)
 ![GAN_1 3](https://github.com/Petaloptyon/mnist_generator/assets/131547274/dab02d8d-1a8c-4cab-963d-8e38dcbba809)
+
+1.4) I decided to modifi GAN_1.3, that it can generate any numbers by request. Here is the result of its training after 100 epochs.
+
+![Alt text](GAN_1.4_requesting_gif_0.gif)
+![Alt text](GAN_1.4_requesting_gif_1.gif)
+![Alt text](GAN_1.4_requesting_gif_2.gif)
+![Alt text](GAN_1.4_requesting_gif_3.gif)
+![Alt text](GAN_1.4_requesting_gif_4.gif)
+![Alt text](GAN_1.4_requesting_gif_5.gif)
+![Alt text](GAN_1.4_requesting_gif_6.gif)
+![Alt text](GAN_1.4_requesting_gif_7.gif)
+![Alt text](GAN_1.4_requesting_gif_8.gif)
+![Alt text](GAN_1.4_requesting_gif_9.gif)
