@@ -24,7 +24,12 @@ You can see prediction result of my model after 100 epochs. If I had more resour
 ![image](https://github.com/Petaloptyon/mnist_generator/assets/131547274/edd69540-3439-4dc1-bc99-45e6ed6ede6e)
 ![GAN_1 3](https://github.com/Petaloptyon/mnist_generator/assets/131547274/dab02d8d-1a8c-4cab-963d-8e38dcbba809)
 
-I decided to modifi GAN_1.3, that it can generate any numbers by request. Here is the result of its training after 100 epochs (result becomes much better after another 100 epochs):
+I decided to modify GAN_1.3 so that it can generate any numbers on request. I use a list of 10 generators for each digit (zero g_model creates '0', first g_model creates '1'...) and build a dictionary of possible clues. When you write any numbers for this GAN, it will activate the corresponding g_models and give you the result.
+For example, i gave this prompt: 159 and got this back (i forgot to use gray colormap):
+
+![image](https://github.com/Petaloptyon/mnist_generator/assets/131547274/c0c0270c-f0fa-41b4-8b6a-6869c8202788)
+
+Here you can see the result of training each g_model after 100 epochs (the result gets much better after another 100 epochs):
 
 ![GAN_1 4_requesting_gif_0](https://github.com/Petaloptyon/mnist_generator/assets/131547274/5d80d26b-2353-4953-be1f-448bcf78f754)
 ![GAN_1 4_requesting_gif_1](https://github.com/Petaloptyon/mnist_generator/assets/131547274/6755ae73-17d3-430b-ad97-dfa5a53de8c6)
