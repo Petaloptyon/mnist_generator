@@ -27,7 +27,7 @@ You can see prediction result of my model after 100 epochs. If I had more resour
 I decided to modify GAN_1.3 so that it can generate any numbers on request. I use a list of 10 generators for each digit (zero g_model creates '0', first g_model creates '1'...) and build a dictionary of possible clues. When you write any numbers for this GAN, it will activate the corresponding g_models and give you the result.
 For example, i gave this prompt: 248112985160145349571385 and got this back (i forgot to use gray colormap):
 
-![image](https://github.com/Petaloptyon/mnist_generator_by_prompt/assets/131547274/21d9d10e-ca13-4cde-b342-7f3f4b56e044)
+![image](https://github.com/Petaloptyon/mnist_generator_by_prompt/assets/131547274/126ecb2a-53e7-43b1-8328-bdcd3ae6cf72)
 
 Here you can see the result of training each g_model after 150 epochs:
 
