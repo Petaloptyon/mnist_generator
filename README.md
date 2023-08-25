@@ -1,3 +1,5 @@
+*`If you use my code, please attach a link to it, respect someone else's work`*
+
 1) GAN_1 - first gan model; result: mediocre
 How it works: 
   - train discriminator to distinguish real and fake images;
